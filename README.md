@@ -1,2 +1,1 @@
-# operator_python
-Operators used in python programming
+Basic programming python for beginners 
