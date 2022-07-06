@@ -1,4 +1,4 @@
-# How take input form user
+# How to take input form user
 
 a= int (input("Enter Number"))
 print(a)
