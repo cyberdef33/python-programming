@@ -4,19 +4,19 @@
 # title()
 # capitalize()
 
-# x="Hacker world Team"
-# n=x.lower()
-# print(n)
-# 
-# n=x.upper()
-# print(n)
-# 
-# n=x.title()
-# print(n)
-# 
-# n=x.capitalize()
-# print(n)
-# 
+x="Hacker world Team"
+n=x.lower()
+print(n)
+
+n=x.upper()
+print(n)
+
+n=x.title()
+print(n)
+
+n=x.capitalize()
+print(n)
+
 
 
 # find()
