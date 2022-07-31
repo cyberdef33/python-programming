@@ -1,24 +1,23 @@
-# class Example:
-#     a=10
-#     def showvalue(self):
-#         print(self.a)
-#         self.c=self.a*self.a
-#         print(self.c)
-# obj=Example()
-# obj.showvalue()
+class Demo:
+    a=10
 
-# Inheritance
+def sum(self):
+   print(10+20)
+
+
+obj=Demo()
+obj=sum()
+print(sum.a)
 
 class A:
-    def DisplayA(self):
-        print("Welcome To Cyber Team:")
-class B(A):
-    def DisplayB(self):
-        print("Welcome To World:")
-# obj=A()
-# obj.DisplayA()
-obj=B()
-obj.DisplayB()
-obj.DisplayA()
+    # a=10
+    # b=30
+    def show(self,a,b):
+        print(a+b)
+        
+#       
 
+obj=A()
+obj.show(40,20)
+# obj.show(50,100)
 
